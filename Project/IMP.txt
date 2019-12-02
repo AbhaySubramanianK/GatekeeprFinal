@@ -1,0 +1,2 @@
+using md5 for encrypting passwords
+The MD5 message-digest algorithm is a widely used hash function producing a 128-bit hash value
